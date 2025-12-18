@@ -68,13 +68,13 @@ logs/
 .streamlit/secrets.toml
 
 # Machine Learning
-*.pkl
+# *.pkl - Commented out to allow saved_model folder
 *.joblib
 *.h5
 *.hdf5
 *.model
 checkpoints/
-models/
+# models/ - Commented out to allow saved_model folder
 weights/
 
 # Data files
