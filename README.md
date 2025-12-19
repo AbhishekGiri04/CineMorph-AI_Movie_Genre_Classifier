@@ -377,6 +377,6 @@ datetime>=4.7.0
 
 **© 2025 CineMorph - AI Movie Genre Classifier. All Rights Reserved.**
 
-[⭐ Star this repo](https://github.com/abhishekgiri04/CineMorph-AI_Movie_Genre_Classifier) • [🐛 Report Bug](https://github.com/abhishekgiri04/CineMorph-AI_Movie_Genre_Classifier/issues) • [💡 Request Feature](https://github.com/abhishekgiri04/CineMorph-AI_Movie_Genre_Classifier/issues)
+
 
 </div>
