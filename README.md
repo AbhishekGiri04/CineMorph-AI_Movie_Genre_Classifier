@@ -153,7 +153,7 @@ CineMorph - Movie Genre Classification/
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/abhishekgiri04/CineMorph-AI_Movie_Genre_Classifier.git
+git clone https://github.com/abhishekgiri04/CineMorph.git
 cd "CineMorph - Movie Genre Classification"
 ```
 
