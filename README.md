@@ -108,6 +108,15 @@ CineMorph - Movie Genre Classification/
 ├── 📂 data/                          # 📚 ML training and testing data
 │   ├── 📄 train.txt                  # 🗃️ Training dataset (54,214 samples)
 │   └── 📄 test.txt                   # 🧪 Testing dataset for validation
+├── 📂 docs/                          # 📸 Application screenshots
+│   ├── 📄 About_Page.png             # About page interface
+│   ├── 📄 Batch_Analytics.png        # Batch processing analytics
+│   ├── 📄 Dashboard_Page.png         # Dashboard interface
+│   ├── 📄 Genre_BarChart.png         # Genre distribution bar chart
+│   ├── 📄 Genre_PieChat.png          # Genre distribution pie chart
+│   ├── 📄 Heatmap.png                # Confusion matrix heatmap
+│   ├── 📄 Home_Page.png              # Home page interface
+│   └── 📄 Session_History.png        # Session history panel
 ├── 📂 saved_model/                   # 🤖 Trained ML model components
 │   ├── 📄 logreg_model.pkl          # 🎯 Logistic Regression model
 │   ├── 📄 tfidf_vectorizer.pkl      # 📊 TF-IDF vectorizer
@@ -116,6 +125,7 @@ CineMorph - Movie Genre Classification/
 ├── 📄 model_training.ipynb           # 🧪 ML model training notebook
 ├── 📄 sample.csv                     # 📝 Sample data for batch testing
 ├── 📄 requirements.txt               # 📦 Python dependencies
+├── 📄 LICENSE                        # 📜 MIT License
 ├── 📄 .gitignore                     # 🚫 Git ignore configuration
 └── 📄 README.md                      # 📖 Project documentation
 ```
@@ -346,8 +356,8 @@ datetime>=4.7.0
 
 ## 📞 Help & Contact
 
-> 💬 *Got a question, suggestion, or need help with CineMorph?*  
-> We're here to assist and collaborate!
+> 💬 *Got questions or need assistance with CineMorph Component?*  
+> We're here to help with integration and customization!
 
 <div align="center">
 
@@ -361,6 +371,14 @@ datetime>=4.7.0
 <a href="https://t.me/AbhishekGiri7">
   <img src="https://img.shields.io/badge/Chat%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram - Abhishek Giri"/>
 </a>
+
+<br/>
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <br/>
 
