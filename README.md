@@ -393,7 +393,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**© 2025 CineMorph - AI Movie Genre Classifier. All Rights Reserved.**
+**© 2026 CineMorph - AI Movie Genre Classifier. All Rights Reserved.**
 
 
 
